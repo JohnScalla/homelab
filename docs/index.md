@@ -8,4 +8,4 @@ Going to be actively developing this site....
 
 ## In Progress
 
-index file
+index file for homelab
